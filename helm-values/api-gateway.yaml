@@ -1,6 +1,6 @@
 image:
-  repository: 482352877891.dkr.ecr.us-east-1.amazonaws.com/petclinic-dev/api-gateway
-  tag: f9c7e8e
+  repository: 632699415921.dkr.ecr.ap-south-1.amazonaws.com/petclinic-dev/api-gateway
+  tag: "1.0"
   pullPolicy: IfNotPresent
 # tag is overwritten automatically by update-image-tags.yml on each CI build
 service:

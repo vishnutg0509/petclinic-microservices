@@ -1,6 +1,6 @@
 image:
-  repository: 482352877891.dkr.ecr.us-east-1.amazonaws.com/petclinic-dev/genai-service
-  tag: f9c7e8e
+  repository: 632699415921.dkr.ecr.ap-south-1.amazonaws.com/petclinic-dev/genai-service
+  tag: "1.0"
 service:
   port: 8084
 configServer:
